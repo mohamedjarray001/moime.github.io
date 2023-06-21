@@ -1,0 +1,51 @@
+/* Example styles for the header section */
+head title {
+    background-color: #bfd720;
+    color: #9f1a1a;
+    text-align: center;
+   
+}
+
+main h1 i {
+    color: #9f1a1a;
+    text-align: center;
+    
+}
+
+/* Example styles for the main content section */
+main img {
+     display: block;
+      margin-left: auto;
+      margin-right: auto;
+    
+}
+
+
+main h1 {
+    margin-bottom: 80px;
+    color: #bfd720;
+    text-align: center;
+    
+}
+
+
+
+main h2 {
+    margin-bottom: 25px;
+    color: #000;
+    text-align: center;
+
+}
+
+footer h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+footer h4 {
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: #9f1a1a;
+    text-align: center;
+}
